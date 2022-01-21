@@ -3,9 +3,9 @@
 I used concepts like  :
 
 
--component 
--props 
--import & export 
--jsx 
--And CSS styling
+ -component 
+ -props 
+ -import & export 
+ -jsx 
+ -And CSS styling
 
