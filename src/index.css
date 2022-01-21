@@ -1,0 +1,94 @@
+/* body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+/* @import url('href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet');
+@import url(""); */
+
+* {
+  margin: 3px;
+  padding: 5px;
+  background-color: #d2dbd2;
+}
+
+.heading_style {
+  margin-top: 0;
+  padding: 30px 0px;
+  border-radius: 20px 20px;
+  background-color: #fff;
+  color: #868686;
+  text-align: center;
+  font-weight: 500;
+  font-style: normal;
+  font-size-adjust: 0.58;
+  text-transform: uppercase;
+}
+
+.cards {
+  margin: 30px 80px;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+}
+
+.card {
+  margin: 10px;
+  width: 100%;
+  height: 100%;
+  border-radius: 15px;
+  box-shadow: 2px 2px 10px rgb(43, 44, 44);
+}
+
+.card:hover {
+  transition: 0.5s all ease-in-out;
+  transform: scale(0.8);
+}
+
+img {
+  width: 100%;
+  height: 20vh;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.card_info {
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+}
+.card__category {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+button {
+  padding-right: 30px;
+
+  padding-left: 30px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 50px 20px;
+  cursor: pointer;
+  text-align: center;
+}
+button:hover {
+  background-color: black;
+  color: white;
+  transition: 0.5s;
+}
