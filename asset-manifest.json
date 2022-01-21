@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "//github.com/pattjoshi.github.io/Netflix_Top_5_webSeries/static/css/main.9bd7536c.css",
+    "main.js": "//github.com/pattjoshi.github.io/Netflix_Top_5_webSeries/static/js/main.703d4f18.js",
+    "index.html": "//github.com/pattjoshi.github.io/Netflix_Top_5_webSeries/index.html",
+    "main.9bd7536c.css.map": "//github.com/pattjoshi.github.io/Netflix_Top_5_webSeries/static/css/main.9bd7536c.css.map",
+    "main.703d4f18.js.map": "//github.com/pattjoshi.github.io/Netflix_Top_5_webSeries/static/js/main.703d4f18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bd7536c.css",
+    "static/js/main.703d4f18.js"
+  ]
+}
